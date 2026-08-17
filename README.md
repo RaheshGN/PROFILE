@@ -8,13 +8,13 @@ Chennai Institute of Technology
 
 Aspiring professional with a strong interest in building a career in Cloud Computing and DevOps.
 
+**STEP Internship — Mangos** *(In Progress / Preparation)*
+Currently preparing for the STEP internship opportunity at Mangos.
+
 ## Experience
 
 **Cloud Computing Intern — VDART Digital, Trichy**
 Completed an internship focused on Cloud Computing concepts and practices.
-
-**STEP Internship — Mangos** *(In Progress / Preparation)*
-Currently preparing for the STEP internship opportunity at Mangos.
 
 ## Projects
 
