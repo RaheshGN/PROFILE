@@ -1,6 +1,7 @@
 # Rahesh G N
 
 Bachelor of Engineering (BE) — Computer Science
+
 Chennai Institute of Technology
 
 ## Objective
